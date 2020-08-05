@@ -1,2 +1,2 @@
 # maktabkhooneh-python
-python
+Development sandbox for maktabkhooneh projects.
